@@ -1,0 +1,9 @@
+{
+  "name": "clean-code-pill",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
